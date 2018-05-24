@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/BPNet/.idea/BPNet.iml" filepath="E:/BPNet/.idea/BPNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/C4.5DTree.iml" filepath="$PROJECT_DIR$/.idea/C4.5DTree.iml" />
+      <module fileurl="file://E://C45DTree/../../C4.5DTree/.idea/C4.5DTree.iml" filepath="E://C45DTree/../../C4.5DTree/.idea/C4.5DTree.iml" />
+      <module fileurl="file://E:/Chapter_5 Random Forest/.idea/Chapter_5 Random Forest.iml" filepath="E:/Chapter_5 Random Forest/.idea/Chapter_5 Random Forest.iml" />
+      <module fileurl="file://E:/ID3DTree/.idea/ID3DTree.iml" filepath="E:/ID3DTree/.idea/ID3DTree.iml" />
+    </modules>
+  </component>
+</project>
